@@ -1,0 +1,17 @@
+E:\Study\Code\Xamarin\Tabbed_Page\Tabbed_Page\bin\Debug\netstandard2.0\Tabbed_Page.deps.json
+E:\Study\Code\Xamarin\Tabbed_Page\Tabbed_Page\bin\Debug\netstandard2.0\Tabbed_Page.dll
+E:\Study\Code\Xamarin\Tabbed_Page\Tabbed_Page\bin\Debug\netstandard2.0\ref\Tabbed_Page.dll
+E:\Study\Code\Xamarin\Tabbed_Page\Tabbed_Page\bin\Debug\netstandard2.0\Tabbed_Page.pdb
+E:\Study\Code\Xamarin\Tabbed_Page\Tabbed_Page\obj\Debug\netstandard2.0\Tabbed_Page.csproj.AssemblyReference.cache
+E:\Study\Code\Xamarin\Tabbed_Page\Tabbed_Page\obj\Debug\netstandard2.0\Tabbed_Page.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Code\Xamarin\Tabbed_Page\Tabbed_Page\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Study\Code\Xamarin\Tabbed_Page\Tabbed_Page\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Study\Code\Xamarin\Tabbed_Page\Tabbed_Page\obj\Debug\netstandard2.0\Tabbed_Page.AssemblyInfoInputs.cache
+E:\Study\Code\Xamarin\Tabbed_Page\Tabbed_Page\obj\Debug\netstandard2.0\Tabbed_Page.AssemblyInfo.cs
+E:\Study\Code\Xamarin\Tabbed_Page\Tabbed_Page\obj\Debug\netstandard2.0\Tabbed_Page.csproj.CoreCompileInputs.cache
+E:\Study\Code\Xamarin\Tabbed_Page\Tabbed_Page\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Study\Code\Xamarin\Tabbed_Page\Tabbed_Page\obj\Debug\netstandard2.0\Tabbed_Page.dll
+E:\Study\Code\Xamarin\Tabbed_Page\Tabbed_Page\obj\Debug\netstandard2.0\ref\Tabbed_Page.dll
+E:\Study\Code\Xamarin\Tabbed_Page\Tabbed_Page\obj\Debug\netstandard2.0\Tabbed_Page.pdb
+E:\Study\Code\Xamarin\Tabbed_Page\Tabbed_Page\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+E:\Study\Code\Xamarin\Tabbed_Page\Tabbed_Page\obj\Debug\netstandard2.0\Page2.xaml.g.cs
